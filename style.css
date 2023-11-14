@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  background-color: #0055A5;
+  color: #FFF;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.menu-list {
+  display: flex;
+  list-style: none;
+}
+
+.menu-item {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+}
