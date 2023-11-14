@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .menu {
@@ -9,24 +10,29 @@ body {
   display: flex;
   align-items: center;
   padding: 15px;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .logo {
   font-size: 24px;
   font-weight: bold;
   margin-right: 20px;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .menu-list {
   display: flex;
   list-style: none;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .menu-item {
   margin-right: 10px;
   cursor: pointer;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .menu-item:hover {
   text-decoration: underline;
+  font-family: 'Fredoka', sans-serif;
 }
